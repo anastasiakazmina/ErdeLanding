@@ -708,4 +708,10 @@ body {
     margin-top: 1100px;
     font-size: 20px;
   }
+
+
+  a:hover {
+   background: white; /* Цвет фона под ссылкой */
+   color: #0015FF; 
+  }
 }
