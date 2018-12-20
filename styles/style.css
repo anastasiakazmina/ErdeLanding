@@ -407,21 +407,20 @@ body {
       }
 
     .img-responsive-2 {
+      opacity: 1;
+      position: absolute;
+      height: 500px;
+      margin-left: -100px;
+      top: 100px;
+      }
+
+      .img-responsive-10 {
         opacity: 1;
         position: absolute;
         height: 500px;
-        margin-left: -185px;
-        top: 150px;
-      
-
-      .img-responsive-10 {
-         opacity: 1;
-         position: absolute;
-         height: 500px;
-         margin-left: -170px;
-         top: 6360px;
-        
-        
+        margin-left: -100px;
+        top: 6270px;
+        }
 
         .img-responsive-11 {
           opacity: 1;
@@ -712,7 +711,8 @@ body {
 
 
   a:hover {
-   background: white; /* Цвет фона под ссылкой */
-   color: #0015FF; 
+   background: white;
+   color: #0015FF;
   }
+  
 }
