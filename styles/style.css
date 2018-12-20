@@ -411,15 +411,15 @@ body {
       position: absolute;
       height: 500px;
       margin-left: -180px;
-      top: 140px;
+      top: 150px;
       }
 
       .img-responsive-10 {
         opacity: 1;
         position: absolute;
         height: 500px;
-        margin-left: -100px;
-        top: 6270px;
+        margin-left: -180px;
+        top: 6350px;
         }
 
         .img-responsive-11 {
